@@ -1,0 +1,411 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "section": "Overview",
+      "title": "USA 15‑Day Road Trip",
+      "subtitle": "Los Angeles • Las Vegas • Grand Canyon • San Francisco",
+      "bullets": [
+        "Teen‑friendly trip briefing",
+        "Photo‑first, short text"
+      ],
+      "image": "USA West Coast map"
+    },
+    {
+      "id": 2,
+      "section": "Overview",
+      "title": "Trip Overview",
+      "bullets": [
+        "15 days • 4 people",
+        "Road trip + cities + nature",
+        "Winter travel"
+      ],
+      "image": "California Nevada Arizona map"
+    },
+    {
+      "id": 3,
+      "section": "Overview",
+      "title": "Route Map",
+      "bullets": [
+        "LA → Las Vegas → Grand Canyon → San Francisco"
+      ],
+      "image": "Los Angeles Las Vegas Grand Canyon San Francisco map"
+    },
+    {
+      "id": 4,
+      "section": "Overview",
+      "title": "Main Highlights",
+      "bullets": [
+        "Universal Studios",
+        "Grand Canyon",
+        "Las Vegas Strip",
+        "Golden Gate Bridge",
+        "Apple Park"
+      ],
+      "image": "Universal Studios Grand Canyon Las Vegas Strip Golden Gate Bridge Apple Park"
+    },
+    {
+      "id": 5,
+      "section": "Los Angeles",
+      "title": "Los Angeles – Introduction",
+      "bullets": [
+        "Movies, beaches, culture",
+        "Big city with iconic landmarks"
+      ],
+      "image": "Los Angeles skyline"
+    },
+    {
+      "id": 6,
+      "section": "Los Angeles",
+      "title": "Hollywood Walk of Fame",
+      "bullets": [
+        "Stars on the sidewalk",
+        "Classic Hollywood landmark"
+      ],
+      "image": "Hollywood Walk of Fame"
+    },
+    {
+      "id": 7,
+      "section": "Los Angeles",
+      "title": "Hollywood Sign View",
+      "bullets": [
+        "Lake Hollywood Park photo spot",
+        "Great city viewpoint"
+      ],
+      "image": "Lake Hollywood Park Hollywood Sign"
+    },
+    {
+      "id": 8,
+      "section": "Los Angeles",
+      "title": "Greystone Mansion & Beverly Hills",
+      "bullets": [
+        "Historic mansion and gardens",
+        "Luxury neighborhood vibe"
+      ],
+      "image": "Greystone Mansion Beverly Hills"
+    },
+    {
+      "id": 9,
+      "section": "Los Angeles",
+      "title": "The Getty Center",
+      "bullets": [
+        "Art museum + architecture",
+        "Amazing city views"
+      ],
+      "image": "The Getty Center"
+    },
+    {
+      "id": 10,
+      "section": "Los Angeles",
+      "title": "Downtown LA Highlights",
+      "bullets": [
+        "Angels Flight Railway",
+        "Grand Central Market",
+        "The Broad Museum"
+      ],
+      "image": "Angels Flight Railway"
+    },
+    {
+      "id": 11,
+      "section": "Los Angeles",
+      "title": "Griffith Observatory",
+      "bullets": [
+        "Sunset + night view",
+        "Space and science exhibits"
+      ],
+      "image": "Griffith Observatory"
+    },
+    {
+      "id": 12,
+      "section": "Los Angeles",
+      "title": "Universal Studios Hollywood",
+      "bullets": [
+        "Theme park based on movies",
+        "Biggest teen highlight in LA"
+      ],
+      "image": "Universal Studios Hollywood"
+    },
+    {
+      "id": 13,
+      "section": "Los Angeles",
+      "title": "Universal – Key Areas",
+      "bullets": [
+        "Wizarding World of Harry Potter",
+        "SUPER NINTENDO WORLD",
+        "Studio Tour movie sets"
+      ],
+      "image": "Super Nintendo World Hollywood"
+    },
+    {
+      "id": 14,
+      "section": "Los Angeles",
+      "title": "Santa Monica",
+      "bullets": [
+        "Pier + beach + ocean views",
+        "Shopping street nearby"
+      ],
+      "image": "Santa Monica Pier"
+    },
+    {
+      "id": 15,
+      "section": "Las Vegas",
+      "title": "Drive to Las Vegas",
+      "bullets": [
+        "Stop: Barstow Outlets",
+        "Desert road trip"
+      ],
+      "image": "Barstow Outlets"
+    },
+    {
+      "id": 16,
+      "section": "Las Vegas",
+      "title": "Seven Magic Mountains",
+      "bullets": [
+        "Colorful rock art in the desert",
+        "Quick photo stop"
+      ],
+      "image": "Seven Magic Mountains"
+    },
+    {
+      "id": 17,
+      "section": "Las Vegas",
+      "title": "Las Vegas Strip (Night)",
+      "bullets": [
+        "Huge hotels and neon lights",
+        "Best seen after dark"
+      ],
+      "image": "Las Vegas Strip night"
+    },
+    {
+      "id": 18,
+      "section": "Las Vegas",
+      "title": "Bellagio Fountain",
+      "bullets": [
+        "Free water show with music",
+        "Great night atmosphere"
+      ],
+      "image": "Fountains of Bellagio"
+    },
+    {
+      "id": 19,
+      "section": "Las Vegas",
+      "title": "LINQ & High Roller",
+      "bullets": [
+        "Promenade for food & shops",
+        "High Roller observation wheel"
+      ],
+      "image": "High Roller Las Vegas"
+    },
+    {
+      "id": 20,
+      "section": "Las Vegas",
+      "title": "Themed Hotels",
+      "bullets": [
+        "Caesars Palace",
+        "Luxor pyramid",
+        "New York‑New York"
+      ],
+      "image": "Luxor Las Vegas"
+    },
+    {
+      "id": 21,
+      "section": "Las Vegas",
+      "title": "Cirque du Soleil “O”",
+      "bullets": [
+        "Famous water‑based show",
+        "One of the best Vegas experiences"
+      ],
+      "image": "Cirque du Soleil O"
+    },
+    {
+      "id": 22,
+      "section": "Las Vegas",
+      "title": "Las Vegas Summary",
+      "bullets": [
+        "Entertainment city",
+        "Shows, lights, food, and fun"
+      ],
+      "image": "Las Vegas skyline night"
+    },
+    {
+      "id": 23,
+      "section": "Grand Canyon",
+      "title": "Drive to Grand Canyon",
+      "bullets": [
+        "Long drive through desert",
+        "Stops: Kingman / Williams (Route 66 vibe)"
+      ],
+      "image": "Williams Arizona Route 66"
+    },
+    {
+      "id": 24,
+      "section": "Grand Canyon",
+      "title": "Grand Canyon South Rim",
+      "bullets": [
+        "World‑famous natural wonder",
+        "Huge scale—photos help!"
+      ],
+      "image": "Grand Canyon South Rim"
+    },
+    {
+      "id": 25,
+      "section": "Grand Canyon",
+      "title": "Mather Point & Viewpoints",
+      "bullets": [
+        "Best classic viewpoints",
+        "Sunrise/sunset is stunning"
+      ],
+      "image": "Mather Point"
+    },
+    {
+      "id": 26,
+      "section": "Grand Canyon",
+      "title": "Hoover Dam",
+      "bullets": [
+        "Massive engineering landmark",
+        "Quick stop on the way back"
+      ],
+      "image": "Hoover Dam"
+    },
+    {
+      "id": 27,
+      "section": "San Francisco",
+      "title": "Fly to San Francisco",
+      "bullets": [
+        "LAS → SFO flight",
+        "Arrive and settle in Daly City"
+      ],
+      "image": "San Francisco skyline"
+    },
+    {
+      "id": 28,
+      "section": "San Francisco",
+      "title": "Fisherman’s Wharf & Pier 39",
+      "bullets": [
+        "Sea lions, shops, snacks",
+        "Great for first‑time SF visitors"
+      ],
+      "image": "Pier 39 sea lions"
+    },
+    {
+      "id": 29,
+      "section": "San Francisco",
+      "title": "Alcatraz Island",
+      "bullets": [
+        "Historic island prison",
+        "Boat ride experience"
+      ],
+      "image": "Alcatraz Island"
+    },
+    {
+      "id": 30,
+      "section": "Silicon Valley",
+      "title": "Apple Park Visitor Center",
+      "bullets": [
+        "Apple HQ visitor center",
+        "Model + AR experience + store"
+      ],
+      "image": "Apple Park"
+    },
+    {
+      "id": 31,
+      "section": "Silicon Valley",
+      "title": "The Tech Interactive",
+      "bullets": [
+        "Hands‑on science & tech museum",
+        "Robotics, VR, maker challenges"
+      ],
+      "image": "The Tech Interactive"
+    },
+    {
+      "id": 32,
+      "section": "Silicon Valley",
+      "title": "Winchester Mystery House",
+      "bullets": [
+        "Weird stairs & maze hallways",
+        "Fun mystery stories"
+      ],
+      "image": "Winchester Mystery House"
+    },
+    {
+      "id": 33,
+      "section": "San Francisco",
+      "title": "California Academy of Sciences",
+      "bullets": [
+        "Aquarium + planetarium",
+        "One ticket, many exhibits"
+      ],
+      "image": "California Academy of Sciences"
+    },
+    {
+      "id": 34,
+      "section": "San Francisco",
+      "title": "Lombard Street",
+      "bullets": [
+        "“Most crooked street”",
+        "Classic photo spot"
+      ],
+      "image": "Lombard Street"
+    },
+    {
+      "id": 35,
+      "section": "San Francisco",
+      "title": "Twin Peaks Viewpoint",
+      "bullets": [
+        "Top city panorama",
+        "Best at sunset/night"
+      ],
+      "image": "Twin Peaks San Francisco"
+    },
+    {
+      "id": 36,
+      "section": "San Francisco",
+      "title": "Golden Gate Bridge",
+      "bullets": [
+        "Icon of San Francisco",
+        "Often covered by fog"
+      ],
+      "image": "Golden Gate Bridge"
+    },
+    {
+      "id": 37,
+      "section": "San Francisco",
+      "title": "Palace of Fine Arts",
+      "bullets": [
+        "Beautiful classical architecture",
+        "Easy walk + photos"
+      ],
+      "image": "Palace of Fine Arts"
+    },
+    {
+      "id": 38,
+      "section": "San Francisco",
+      "title": "Exploratorium",
+      "bullets": [
+        "Interactive science museum",
+        "Perfect for teens"
+      ],
+      "image": "Exploratorium"
+    },
+    {
+      "id": 39,
+      "section": "Ending",
+      "title": "Trip Memories",
+      "bullets": [
+        "Cities + nature",
+        "Family time & fun experiences"
+      ],
+      "image": "road trip collage"
+    },
+    {
+      "id": 40,
+      "section": "Ending",
+      "title": "Thank You / Q&A",
+      "bullets": [
+        "What was your favorite place?",
+        "What do you want to try next time?"
+      ],
+      "image": "Golden Gate Bridge sunset"
+    }
+  ]
+}

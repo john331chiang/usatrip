@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>USA 15‑Day Road Trip — 40‑Slide Web Deck</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__left">
+      <div class="brand">USA Road Trip</div>
+      <div class="muted" id="crumb"></div>
+    </div>
+    <div class="topbar__right">
+      <button id="btnPrev" class="btn">← Prev</button>
+      <button id="btnNext" class="btn">Next →</button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="stage">
+      <div class="slide">
+        <div class="slide__media">
+          <img id="img" alt="Slide image" />
+          <div id="imgNote" class="imgNote muted"></div>
+        </div>
+        <div class="slide__content">
+          <h1 id="title"></h1>
+          <p id="subtitle" class="subtitle"></p>
+          <ul id="bullets"></ul>
+          <div class="meta">
+            <span id="counter" class="muted"></span>
+            <div class="progress"><div id="bar" class="bar"></div></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <aside class="sidebar">
+      <div class="sidebar__head">
+        <h2>Slides</h2>
+        <input id="search" type="search" placeholder="Search (e.g., Grand Canyon, Apple Park)…" />
+      </div>
+      <div id="list" class="list"></div>
+      <div class="tips muted">
+        Tips: Use ← → keys • Click a slide title • Images auto‑load from Wikipedia when possible.
+      </div>
+    </aside>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
